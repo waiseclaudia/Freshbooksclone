@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Sai [
+
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT prénom (#PCDATA)>
+
+<!ELEMENT âge (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+ 
+<!ELEMENT fonction (#PCDATA)>
+<!ELEMENT lieu (#PCDATA)>
+
+<!ELEMENT groupe (#PCDATA)>
+<!ELEMENT spécialité (#PCDATA)>
+
+<!ELEMENT langage (#PCDATA)>
+<!ELEMENT vision (#PCDATA)>
+]>
+<Sai>
+	<nom>Saiba</nom>
+	<prenom>Waise Claudia</prenom>
+	<âge>23ans</âge>
+	<description>Je suis une jeune fille intelligente,belle,travailleuse,courageuse</description>
+	<fonction>Stagiaire à sheisthecode</fonction>
+	<lieu> A Akendewa</lieu>
+	<groupe>Digitalcoders</groupe>
+	<spécialité>coding</spécialité>
+	<langage>html,css,javascript</langage>
+	<vision> être une experte en code</vision>
+</Sai>
+
+
